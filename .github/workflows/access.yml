@@ -2,7 +2,7 @@ on: push
 
 jobs:
 
-  access:
+  access_log:
     runs-on: ubuntu-latest
     name: Membership Audit Log
 
